@@ -1,0 +1,36 @@
+18.196.17.106
+
+sudo apt update
+
+sudo apt install docker.io
+
+
+sudo docker images
+sudo docker ps -a
+
+sudo docker rmi xx
+sudo 
+sudo apt install apache2
+
+sudo docker pull hello-world
+
+
+# create a network for containers to communicate
+$ sudo docker network create prestashop-net
+# launch mysql 5.7 container
+$ sudo docker run -ti --name some-mysql --network prestashop-net -e MYSQL_ROOT_PASSWORD=admin -p 3307:3306 -d mysql:5.7
+# launch prestashop container
+$ sudo docker run -ti --name some-prestashop --network prestashop-net -e DB_SERVER=some-mysql -p 8080:80 -d prestashop/prestashop:1.6
+
+sudo docker exec -it 34 /bin/bash
+ 
+mv install old_install
+ls
+mv admin gaurav
+ls
+
+[5:04 PM] Gaurav Pandey
+https://hub.docker.com/r/prestashop/prestashop
+Docker Hub
+
+
