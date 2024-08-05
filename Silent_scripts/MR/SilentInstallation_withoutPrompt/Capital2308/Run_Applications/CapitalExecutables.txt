@@ -1,0 +1,7 @@
+C:\MentorGraphics\capital_2308_913\bin\
+CapitalManager.exe
+CapitalIntegrationServer.exe
+CapitalLogicDesigner.exe
+CapitalProjectManager.exe
+CapitalStopServices.exe
+

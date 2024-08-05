@@ -1,0 +1,4 @@
+C:/MentorGraphics/Capital Essentials2207/bin/
+CapitalManagerEssentials.exe
+CapitalEssentials.exe
+CapitalComponentManagerEssentials.exe

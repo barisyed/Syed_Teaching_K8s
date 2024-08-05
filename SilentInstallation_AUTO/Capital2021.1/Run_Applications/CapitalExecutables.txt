@@ -1,0 +1,4 @@
+C:\MentorGraphics\Capital2021.1\bin\
+CapitalPublisher.exe
+CapitalProject.exe
+CapitalSymbol.exe
